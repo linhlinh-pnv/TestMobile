@@ -69,11 +69,11 @@ function MyTabs() {
           options={{
             tabBarIcon: ({color, size, focused}) => (
               <Image
-                source={require('../assets/img/mapicon.png')}
+                source={require('../assets/img/usericon.png')}
                 style={{
                   width: 30,
                   height: 30,
-                  tintColor: '#ede4e5',
+                  tintColor: '#db0b23',
                 }}
               />
             ),
